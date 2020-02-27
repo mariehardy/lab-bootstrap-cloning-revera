@@ -1,0 +1,51 @@
+.doverlay {
+    background: url("./starter-code/img/overlay.png");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    z-index: 100;
+}
+
+#navbarNavDropdown {
+    padding-left: 200px;
+} 
+
+#intro {
+    background-color: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+}
+
+.circle {
+    border-radius: 50%;    
+    border-style: 2px solid white;
+}
+
+footer {
+    padding: 20px 0px 40px 0px;
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+    color: #aaa;
+}
+
+footer h3 {
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: #aaa;
+}
+
+footer a:hover {
+    color: white;
+}
+
+.site-footer div {
+    background-color: #292929;
+    padding: 10px 40px;
+    color: #eee;
+
+}
